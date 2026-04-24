@@ -1,4 +1,17 @@
-// app/page.jsx  –– HM Signature Estates · Next.js 14 (App Router)
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.300.0"
+  }
+}// app/page.jsx  –– HM Signature Estates · Next.js 14 (App Router)
 // Deploy: drop into app/page.jsx, fonts auto-load via Google Fonts import below
 
 export const metadata = {
